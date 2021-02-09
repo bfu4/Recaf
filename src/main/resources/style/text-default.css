@@ -1,4 +1,9 @@
 /* nodes */
+* {
+   -fx-font-family: 'monospace';
+}
+
+
 .styled-text-area {
 	-fx-background-color: rgb(255, 255, 255);
 	-fx-accent: rgb(173, 214, 255);

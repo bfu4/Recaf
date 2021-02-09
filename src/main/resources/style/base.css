@@ -27,6 +27,11 @@
 	-fx-border-width: 0;
    	-fx-background-insets: -1;
 }
+
+* {
+ -fx-font-family: 'monospaced';
+ }
+
 /* This is the default monospaced entry, but is overridden with a separate user-generated sheet */
 .monospaced {
 	-fx-font-family: 'monospaced';
